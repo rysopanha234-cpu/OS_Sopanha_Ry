@@ -4,3 +4,6 @@ shm-producer
 shm-consumer
 sender
 receiver
+*.class
+*.exe
+
